@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("dfghjkvbnm\n");
+    printf("dfghjkvbnmasdfgh\n");
+    printf("dfghjkvbnmasdfgh\n");
+
     return 0;
 }
